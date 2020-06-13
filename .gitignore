@@ -1,0 +1,6 @@
+node_modules/
+notes.txt
+output.txt
+output.json
+cypress/videos
+cypress/screenshots
